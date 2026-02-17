@@ -75,7 +75,7 @@
 
 ## 🤝 Let's Connect
 
-- 🔗 [LinkedIn – Uttkarsh Solanki](https://www.linkedin.com/in/rishi-kushwaha-2baa88244/)
+- 🔗 [LinkedIn – Rishi Kushwaha](https://www.linkedin.com/in/rishi-kushwaha-2baa88244/)
 - 📬 Open to full-time, part-time, freelance & collaborative AI adventures!
 
 ---

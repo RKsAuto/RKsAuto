@@ -67,8 +67,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiensenberg05&show_icons=true&theme=react&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiensenberg05&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RKsAuto&show_icons=true&theme=react&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RKsAuto&theme=react" />
 </p>
 
 ---

@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-555555?logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
 </p>
 
 ### ⚙️ Backend & API
